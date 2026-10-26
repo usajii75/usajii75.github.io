@@ -1,0 +1,12 @@
+{
+  "android": {
+    "latest": "1.0.1",
+    "minSupported": "1.0.1",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.fc2.blog74.usajii.qmasu"
+  },
+  "ios": {
+    "latest": "1.0.1",
+    "minSupported": "1.0.1",
+    "storeUrl": "https://apps.apple.com/app/id6785222892"
+  }
+}
